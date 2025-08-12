@@ -17,4 +17,4 @@ Bu repo, temel HTML, CSS ve JavaScript kullanılarak yapılmış küçük projel
 
 1. Bu repoyu bilgisayarına indir veya klonla:
    ```bash
-   git clone https://github.com/<kullanici-adi>/MiniProjeler.git
+   git clone https://github.com/BgrOgz/MiniProjeler
